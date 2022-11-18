@@ -29,7 +29,7 @@ h2 {
 
 p {
     font-family: var(--body-font);
-    font-size: 1.5rem;
+    font-size: 1.6rem;
 }
 
 .main-container {
@@ -73,3 +73,20 @@ ul {
 .nav-ul li:nth-child(2) {
     margin-right: 1rem;
 }
+/* about section styles */
+.about-section {
+    margin: 2.5rem 0;
+    display:flex;
+    /* flex-wrap: wrap-reverse; */
+    align-items: center;
+
+}
+
+.about-section h2 {
+    margin-bottom: 1rem;
+}
+.about-section p {
+    margin-bottom: 1rem;
+
+}
+
