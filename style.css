@@ -90,3 +90,24 @@ ul {
 
 }
 
+/* project sections styles  */
+.project-section {
+    margin-bottom: 2rem;
+}
+
+.project-section h2 {
+    margin-bottom: 0.5rem;
+}
+
+.projects-ul {
+    padding:0;
+    margin-left:2.5rem;
+    list-style-type: square;
+    font-size:1.6rem;
+}
+
+.projects-ul li {
+    margin-bottom:1rem;
+}
+
+
