@@ -77,13 +77,13 @@ ul {
 
 a {
     text-decoration:none;
-    color:gray;
+    color:rgb(0,0,0);
 }
 
-/* body.home .nav-ul li a,
-body.contact .nav-ul li a {
-    background-color: olive;
-} */
+body.home nav h1 a,
+body.contact nav li.contact a {
+    color: goldenrod;
+}
 /* about section styles */
 .about-section {
     margin: 2.5rem 0;
